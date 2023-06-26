@@ -1,0 +1,16 @@
+matplotlib
+numpy
+opencv-python
+Pillow
+requests
+scipy
+torch
+torchvision
+tqdm
+tensorboard
+pandas
+seaborn
+ipython
+psutil
+thop
+flask
